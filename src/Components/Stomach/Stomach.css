@@ -1,0 +1,38 @@
+/* بسم الله الرحمن الرحيم */
+
+.stomach {
+    margin: 99px 0;
+    text-align: center;
+    width: 100%;
+    height: 555px;
+    background-image: url('./fruits.png');
+    border-radius: 11px;
+}
+
+.stomach h2 {
+    padding: 150px 0 21px 0;
+    font-size: 41px;
+    line-height: 69px;
+    color: #a82c48;
+}
+
+.stomach p {
+    color: #8b7878;
+    font-size: 19px;
+    line-height: 33px;
+}
+
+.stomach a {
+    color: #000000;
+    font-size: 19px;
+    font-weight: bold;
+    text-decoration: none;
+    transition: .3s ease-in;
+}
+
+.stomach a:hover {
+    border: 1px solid #a82c48;
+    background: 0;
+    color: #a82c48;
+    padding: 7px 21px;
+}

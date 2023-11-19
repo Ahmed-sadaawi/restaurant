@@ -1,0 +1,30 @@
+/* بسم الله الرحمن الرحيم*/
+
+.navbar-nav a {
+    color: #a82c48;
+    font-weight: bold;
+}
+
+.navbar-nav a:last-child {
+    background: #a82c48;
+    color: white;
+    border: 3px solid #a82c48;
+    transition: .3s ease-in
+}
+
+.navbar-nav a:last-child:hover {
+    border: 3px solid #a82c48;
+    background: 0;
+    color: #a82c48;
+}
+
+.navigation {
+    z-index: 999;
+    width: 100%;
+    position: fixed;
+    transition: .3s ease-in-out;
+}
+
+.time-out {
+    display: none;
+}

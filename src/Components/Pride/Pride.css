@@ -1,0 +1,42 @@
+/* بسم الله الرحمن الرحيم */
+
+.pride,
+.pride2 {
+    margin: 111px 0;
+}
+
+.pride h2,
+.pride2 h2 {
+    font-size: 35px;
+    color: #a82c48;
+    margin: 33px 0 0 55px;
+    line-height: 57px;
+    width: 433px;
+}
+
+.pride p,
+.pride2 p {
+    margin: 20px 0 0 55px;
+    color: #A7A7A7;
+    line-height: 33px;
+    width: 433px;
+}
+
+.pride button {
+    margin: 11px 0 0 55px;
+}
+
+.pride img,
+.pride2 img {
+    width: 100%;
+    border-radius: 7px;
+}
+
+/* pride2 or section 2*/
+.pride2 h2,
+.pride2 p {
+    margin: 15px 0;
+    width: 100%;
+}
+
+/* الحمد لله رب العالمين */

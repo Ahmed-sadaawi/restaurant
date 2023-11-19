@@ -1,0 +1,28 @@
+/* بسم الله الرحمن الرحيم */
+
+.red-btn {
+    background: #a82c48;
+    color: white;
+    border: 3px solid #a82c48;
+    transition: .3s ease-in;
+    padding: 7px 21px;
+}
+
+.red-btn:hover {
+    border: 3px solid #a82c48;
+    background: 0;
+    color: #a82c48;
+}
+
+.p {
+    color: #8b7878;
+    font-size: 19px;
+    line-height: 33px;
+
+}
+
+.h2 {
+    font-size: 41px;
+    line-height: 69px;
+    color: #a82c48;
+}

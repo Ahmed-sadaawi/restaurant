@@ -1,0 +1,55 @@
+/* بسم الله الرحمن الرحيم */
+header {
+    width: 100%;
+    height: 70svh;
+    background-image: url('./ty.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    text-align: center;
+    position: relative;
+    margin-top: 0;
+}
+
+.content {
+    box-sizing: border-box;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.content h2 {
+    font-size: 4rem;
+    color: #fff;
+}
+
+.content p {
+    color: #f2e8e8;
+    padding: 7px;
+    margin-bottom: 33px;
+}
+
+.content button {
+    width: 140px;
+
+    height: auto;
+    border: none;
+    padding: 7px 15px;
+    text-transform: capitalize;
+}
+
+.content button:last-child {
+    background: #fff;
+    color: #a82c48;
+    margin-left: 19px;
+    border: none;
+    box-shadow: 2px 2px 15px #A7A7A7;
+}
+
+.content button:last-child:hover {
+    border: 3px #a82c48 solid;
+    transition: .3s ease-in;
+    background: #a82c48;
+    color: #fff
+}
